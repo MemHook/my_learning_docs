@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+  <title id="title">Review cycle</title>
+  <desc id="desc">A shared visual showing encounter, recall, and return.</desc>
+  <rect width="900" height="420" rx="32" fill="#17151f"/>
+  <circle cx="450" cy="210" r="130" fill="none" stroke="#6246d9" stroke-width="52" stroke-dasharray="225 72" transform="rotate(-42 450 210)"/>
+  <circle cx="450" cy="210" r="72" fill="#e8ff9c"/>
+  <text x="450" y="204" text-anchor="middle" fill="#17151f" font-family="Arial, PingFang SC, sans-serif" font-size="18" font-weight="800">REVIEW</text>
+  <text x="450" y="231" text-anchor="middle" fill="#17151f" font-family="Arial, PingFang SC, sans-serif" font-size="17" font-weight="700">复习</text>
+  <text x="130" y="115" fill="#ffffff" font-family="Arial, PingFang SC, sans-serif" font-size="20" font-weight="700">1 · Encounter / 遇见</text>
+  <text x="625" y="115" fill="#ffffff" font-family="Arial, PingFang SC, sans-serif" font-size="20" font-weight="700">2 · Recall / 回忆</text>
+  <text x="320" y="362" fill="#ffffff" font-family="Arial, PingFang SC, sans-serif" font-size="20" font-weight="700">3 · Return / 再次接触</text>
+</svg>

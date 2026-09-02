@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+  <title id="title">可以长期重复的基础习惯</title>
+  <desc id="desc">从选择材料、持续沉浸到回顾调整的三步循环。</desc>
+  <rect width="900" height="480" rx="32" fill="#eeeaff"/>
+  <text x="56" y="74" fill="#6246d9" font-family="Arial, PingFang SC, sans-serif" font-size="18" font-weight="700" letter-spacing="3">可以长期重复的基础习惯</text>
+  <text x="56" y="122" fill="#17151f" font-family="Arial, PingFang SC, sans-serif" font-size="36" font-weight="800">让沉浸学习进入日常生活</text>
+  <path d="M184 288 H716" stroke="#9f91e8" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="184" cy="288" r="58" fill="#17151f"/>
+  <circle cx="450" cy="288" r="58" fill="#6246d9"/>
+  <circle cx="716" cy="288" r="58" fill="#d7f75e"/>
+  <text x="184" y="296" text-anchor="middle" fill="#ffffff" font-family="Arial, PingFang SC, sans-serif" font-size="20" font-weight="800">选择</text>
+  <text x="450" y="296" text-anchor="middle" fill="#ffffff" font-family="Arial, PingFang SC, sans-serif" font-size="20" font-weight="800">沉浸</text>
+  <text x="716" y="296" text-anchor="middle" fill="#17151f" font-family="Arial, PingFang SC, sans-serif" font-size="20" font-weight="800">回顾</text>
+  <text x="184" y="382" text-anchor="middle" fill="#6d6878" font-family="Arial, PingFang SC, sans-serif" font-size="16">一种可靠材料</text>
+  <text x="450" y="382" text-anchor="middle" fill="#6d6878" font-family="Arial, PingFang SC, sans-serif" font-size="16">每天一小段时间</text>
+  <text x="716" y="382" text-anchor="middle" fill="#6d6878" font-family="Arial, PingFang SC, sans-serif" font-size="16">观察并调整</text>
+</svg>

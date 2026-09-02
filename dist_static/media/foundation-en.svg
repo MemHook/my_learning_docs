@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 480" role="img" aria-labelledby="title desc">
+  <title id="title">A repeatable foundation routine</title>
+  <desc id="desc">A three-step cycle from choose to immerse to reflect.</desc>
+  <rect width="900" height="480" rx="32" fill="#17151f"/>
+  <text x="56" y="74" fill="#e8ff9c" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">A REPEATABLE FOUNDATION</text>
+  <text x="56" y="122" fill="#ffffff" font-family="Arial, sans-serif" font-size="36" font-weight="800">Build a routine you can keep</text>
+  <path d="M184 288 H716" stroke="#6f55e7" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="184" cy="288" r="58" fill="#e8ff9c"/>
+  <circle cx="450" cy="288" r="58" fill="#6f55e7"/>
+  <circle cx="716" cy="288" r="58" fill="#ffffff"/>
+  <text x="184" y="296" text-anchor="middle" fill="#17151f" font-family="Arial, sans-serif" font-size="19" font-weight="800">CHOOSE</text>
+  <text x="450" y="296" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="19" font-weight="800">IMMERSE</text>
+  <text x="716" y="296" text-anchor="middle" fill="#17151f" font-family="Arial, sans-serif" font-size="19" font-weight="800">REFLECT</text>
+  <text x="184" y="382" text-anchor="middle" fill="#bcb6c8" font-family="Arial, sans-serif" font-size="16">one source</text>
+  <text x="450" y="382" text-anchor="middle" fill="#bcb6c8" font-family="Arial, sans-serif" font-size="16">a small daily block</text>
+  <text x="716" y="382" text-anchor="middle" fill="#bcb6c8" font-family="Arial, sans-serif" font-size="16">notice progress</text>
+</svg>
