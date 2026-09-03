@@ -9,16 +9,16 @@
       "_record-DGjjlPTv.js"
     ]
   },
-  "_app-route-prefetch-policy-xmgG2TMU.js": {
-    "file": "my_learning_docs/_next/static/chunks/app-route-prefetch-policy-xmgG2TMU.js",
+  "_app-route-prefetch-policy-DUOokXYs.js": {
+    "file": "my_learning_docs/_next/static/chunks/app-route-prefetch-policy-DUOokXYs.js",
     "name": "app-route-prefetch-policy",
     "imports": [
       "_rolldown-runtime-BIlNJiRt.js",
       "virtual:vinext-app-browser-entry"
     ]
   },
-  "_app-rsc-cache-busting-Dbg9frvi.js": {
-    "file": "my_learning_docs/_next/static/chunks/app-rsc-cache-busting-Dbg9frvi.js",
+  "_app-rsc-cache-busting-M12QMw_8.js": {
+    "file": "my_learning_docs/_next/static/chunks/app-rsc-cache-busting-M12QMw_8.js",
     "name": "app-rsc-cache-busting",
     "imports": [
       "_rolldown-runtime-BIlNJiRt.js",
@@ -78,8 +78,8 @@
     "file": "my_learning_docs/_next/static/chunks/record-DGjjlPTv.js",
     "name": "record"
   },
-  "_roadmap-navigation-B51J5Yew.js": {
-    "file": "my_learning_docs/_next/static/chunks/roadmap-navigation-B51J5Yew.js",
+  "_roadmap-navigation-G_2rEi4Q.js": {
+    "file": "my_learning_docs/_next/static/chunks/roadmap-navigation-G_2rEi4Q.js",
     "name": "roadmap-navigation",
     "imports": [
       "_rolldown-runtime-BIlNJiRt.js",
@@ -92,30 +92,30 @@
     "name": "rolldown-runtime"
   },
   "components/collected-page.tsx": {
-    "file": "my_learning_docs/_next/static/chunks/collected-page-BnZf_urj.js",
+    "file": "my_learning_docs/_next/static/chunks/collected-page-jjV26raU.js",
     "name": "collected-page",
     "src": "components/collected-page.tsx",
     "isDynamicEntry": true,
     "imports": [
-      "_roadmap-navigation-B51J5Yew.js",
+      "_roadmap-navigation-G_2rEi4Q.js",
       "_framework-BlCQ9Wx4.js",
       "node_modules/vinext/dist/shims/link.js"
     ]
   },
   "components/roadmap-home.tsx": {
-    "file": "my_learning_docs/_next/static/chunks/roadmap-home-Cr3n0ZOd.js",
+    "file": "my_learning_docs/_next/static/chunks/roadmap-home-CsKg_3fM.js",
     "name": "roadmap-home",
     "src": "components/roadmap-home.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-BIlNJiRt.js",
-      "_roadmap-navigation-B51J5Yew.js",
+      "_roadmap-navigation-G_2rEi4Q.js",
       "_framework-BlCQ9Wx4.js",
       "node_modules/vinext/dist/shims/link.js"
     ]
   },
   "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js": {
-    "file": "my_learning_docs/_next/static/chunks/hybrid-client-route-owner-CoifWSD2.js",
+    "file": "my_learning_docs/_next/static/chunks/hybrid-client-route-owner-24zVlsyW.js",
     "name": "hybrid-client-route-owner",
     "src": "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
     "isDynamicEntry": true,
@@ -126,7 +126,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "my_learning_docs/_next/static/chunks/layout-segment-context-BP9shLcf.js",
+    "file": "my_learning_docs/_next/static/chunks/layout-segment-context-D9y7nkR3.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -138,7 +138,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/link.js": {
-    "file": "my_learning_docs/_next/static/chunks/link-Dr570xt1.js",
+    "file": "my_learning_docs/_next/static/chunks/link-u4yXlaCj.js",
     "name": "link",
     "src": "node_modules/vinext/dist/shims/link.js",
     "isDynamicEntry": true,
@@ -146,7 +146,7 @@
       "_rolldown-runtime-BIlNJiRt.js",
       "virtual:vinext-app-browser-entry",
       "_framework-BlCQ9Wx4.js",
-      "_app-route-prefetch-policy-xmgG2TMU.js",
+      "_app-route-prefetch-policy-DUOokXYs.js",
       "_deployment-id-Cbwc15Bw.js",
       "_protocol-headers-hsUpwDYw.js",
       "_query-2-u8EjWy.js",
@@ -156,7 +156,7 @@
       "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
       "virtual:vinext-app-browser-entry",
       "_app-elements-Bz07JU3W.js",
-      "_app-rsc-cache-busting-Dbg9frvi.js",
+      "_app-rsc-cache-busting-M12QMw_8.js",
       "_app-rsc-render-mode-CmgewYB5.js",
       "_headers-DU25Ajd2.js"
     ]
@@ -172,7 +172,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "my_learning_docs/_next/static/chunks/index-CZ-wRbJx.js",
+    "file": "my_learning_docs/_next/static/chunks/index-BKSAk9-z.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -180,7 +180,7 @@
       "_rolldown-runtime-BIlNJiRt.js",
       "_framework-BlCQ9Wx4.js",
       "_app-elements-Bz07JU3W.js",
-      "_app-rsc-cache-busting-Dbg9frvi.js",
+      "_app-rsc-cache-busting-M12QMw_8.js",
       "_headers-DU25Ajd2.js",
       "_navigation-errors-DgQ8YqoI.js",
       "_hash-CggmV_IQ.js",
@@ -188,7 +188,7 @@
     ],
     "dynamicImports": [
       "node_modules/vinext/dist/shims/internal/hybrid-client-route-owner.js",
-      "_app-route-prefetch-policy-xmgG2TMU.js",
+      "_app-route-prefetch-policy-DUOokXYs.js",
       "virtual:vinext-app-browser-entry",
       "components/roadmap-home.tsx",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
